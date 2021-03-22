@@ -1,1 +1,25 @@
+1.Ưu điểm của lập trình thủ tục hàm so với lập trình tuyết tính là gì ?
+-Sử dụng chức năng của các câu lệnh được nhiều lần, không cần phải lặp lại code
+-Tối ưu được thời gian code
+2. Có mấy loại hàm, kể tên và phân tích loại hàm đó được sử dụng khi nào?
+-có 2 loại hàm
+-Hàm có giá trị trả về:dùng để tính toán rồi trả về giá trị ban đầu, có thể sử dụng lại giá trị kiểu dữ liệu của hàm
+-Hàm không trả về : xử lí tính toán nhưng không trả về giá trị 
+3. Chức năng và nguyên lý hoạt động của return trong hàm có kdl trả về
+thoát khỏi hàm và lấy giá trị trả về cho lời gọi hàm
+4. cách dùng lời gọi hàm của hàm có giá trị trả về ?
+-in ra màn hình
+-gán giá trị
+-tính toán biểu thức
+4. tham số hình thức là gì, tham số thực là gì ?
+- tham số hình thức: truyền ở định nghĩa hàm
+- tham số thực: truyền ở lời gọi hàm
+5. Tham trị là gì, tham chiếu là gì ?
+-tham trị:không có &. tạo bản sao, thay đổi không ảnh hưởng bản gốc
+-tham chiếu: có &. nếu thay đổi giá trị sẽ ảnh hưởng đến bản gốc
+6. Hàm trong chương trình được thực thi khi nào ?
+-khi có lời gọi hàm
+7. Nếu muốn trả về nhiều hơn 2 giá trị thì ta làm sao ?
+-dùng dấu &. để truyền tham chiếu vào
+
 
